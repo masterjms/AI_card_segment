@@ -1,0 +1,8 @@
+# Ignore all CSV files
+*.csv
+
+# all pkl files
+*.pkl
+
+# data 폴더 전체 무시
+/data/
